@@ -1,4 +1,4 @@
-# Kinect-Object-Detector
+# Kinect Object Detector
 
 <!-- CONTACT -->
 <a name="conta"></a>
